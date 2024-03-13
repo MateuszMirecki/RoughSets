@@ -134,4 +134,4 @@ dat["credit_risk"] = dat["credit_risk"].astype('category').cat.set_categories(["
 
 
 # Display the DataFrame
-display(dat)
+# display(dat)
